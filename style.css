@@ -1,0 +1,86 @@
+/*common css*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo img{
+    width: 150px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Lato' sans-serif;
+    color: #545454;
+    font-weight: 700;
+}
+.col-1{
+    width: 10%;
+    float: left;
+}
+.col-2{
+    width: 20%;
+    float: left;
+}
+.col-3{
+    width: 30%;
+    float: left;
+}
+.col-4{
+    width: 40%;
+    float: left;
+}.col-5{
+    width: 50%;
+    float: left;
+}
+.col-6{
+    width: 60%;
+    float: left;
+}
+.col-7{
+    width: 70%;
+    float: left;
+}
+.col-8{
+    width: 80%;
+    float: left;
+}
+.col-9{
+    width: 90%;
+    float: left;
+}
+.col-10{
+    width: 100%;
+    float: left;
+}
+.col-33{
+    width: 33.33%;
+    float: left;
+}
+.text-right{
+    text-align: right;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 30px;
+}
+.main-menu ul li a{
+    text-decoration: none;
+    color: #ffff;
+    font-style: italic;
+    display: inline-block;
+}
+.main-menu{
+    padding: 10px 0;
+    
+}
+/*header*/
+.slider img{
+    width: 100%;
+}
+.header-area{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    padding: 20px 50px;
+}
